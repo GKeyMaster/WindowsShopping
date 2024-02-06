@@ -1,1 +1,0 @@
-Demo for an ecommerce platform using svelt
